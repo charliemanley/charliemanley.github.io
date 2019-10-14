@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+}
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  font-size: 55px;
+}
+ul {
+  background-color: pink;
+  text-align: center;
+}
+li { display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+section {
+  text-align: center;
+  body:
+}
+
+img {
+  body: 50px;
+}
