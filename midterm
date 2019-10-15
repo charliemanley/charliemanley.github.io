@@ -1,1 +1,203 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>News by Charlie</title>
+	<link href="midterm.css" type="text/css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
+
+</head>
+<h1>News by Charlie</h1>
+<h2>Where you can stay updated 24/7</h2>
+<body>
+	<div class="navbar">
+		<ul>
+			<li> New York
+			</li>
+			<li>
+					<a href="file:///Users/charlottemanley/Desktop/Web%20Fundamentals/politics.html">Politics</a>
+		</li>
+			<li>
+					Lifestyle
+			</li>
+			<li>
+					Opinion
+			</li>
+			<li>
+					Technology
+			</li>
+			<li>
+				Other
+			</li>
+		</ul>
+		</div>
+<section>
+	<img height="" width="" src="https://live.staticflickr.com/2807/9379968743_039e01fd45_b.jpg"> </img>
+</section>
+<h3>
+	Top Stories
+</h3>
+<p>
+	<img height="25%" width="25%"src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/30/13/e-cigarette-vaping.jpg?w968h681"> </img>
+</p>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Dictum varius duis at consectetur lorem donec massa sapien. Sit amet porttitor eget dolor morbi non. Ipsum dolor sit amet consectetur adipiscing elit ut. Scelerisque varius morbi enim nunc. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Et magnis dis parturient montes nascetur ridiculus mus mauris. Sed risus ultricies tristique nulla aliquet enim tortor. Nullam ac tortor vitae purus faucibus. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Mattis nunc sed blandit libero.	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Dictum varius duis at consectetur lorem donec massa sapien. Sit amet porttitor eget dolor morbi non. Ipsum dolor sit amet consectetur adipiscing elit ut. Scelerisque varius morbi enim nunc. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Et magnis dis parturient montes nascetur ridiculus mus mauris. Sed risus ultricies tristique nulla aliquet enim tortor. Nullam ac tortor vitae purus faucibus. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Mattis nunc sed blandit libero.	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Dictum varius duis at consectetur lorem donec massa sapien. Sit amet porttitor eget dolor morbi non. Ipsum dolor sit amet consectetur adipiscing elit ut. Scelerisque varius morbi enim nunc. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Et magnis dis parturient montes nascetur ridiculus mus mauris. Sed risus ultricies tristique nulla aliquet enim tortor. Nullam ac tortor vitae purus faucibus. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Mattis nunc sed blandit libero. Pretium quam vulputate dignissim suspendisse in est ante. Imperdiet dui accumsan sit amet nulla. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit. Posuere ac ut consequat semper viverra. Cursus sit amet dictum sit. Integer malesuada nunc vel risus commodo.
+</p>
+
+<p>
+	<img height="25%" width="25%" src="https://4al52k24l8r51wpym5i46ltd-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2019/03/earth12-copy.jpg"> </img>
+</p>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Dictum varius duis at consectetur lorem donec massa sapien. Sit amet porttitor eget dolor morbi non. Ipsum dolor sit amet consectetur adipiscing elit ut. Scelerisque varius morbi enim nunc. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Et magnis dis parturient montes nascetur ridiculus mus mauris. Sed risus ultricies tristique nulla aliquet enim tortor. Nullam ac tortor vitae purus faucibus. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Mattis nunc sed blandit libero.	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Dictum varius duis at consectetur lorem donec massa sapien. Sit amet porttitor eget dolor morbi non. Ipsum dolor sit amet consectetur adipiscing elit ut. Scelerisque varius morbi enim nunc. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Et magnis dis parturient montes nascetur ridiculus mus mauris. Sed risus ultricies tristique nulla aliquet enim tortor. Nullam ac tortor vitae purus faucibus. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Mattis nunc sed blandit libero.	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin.
+</p>
+</body>
+</html>
+h1 {
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+h2 {
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  margin-top: -15px;
+}
+ul {
+  background-color: pink;
+  text-align: center;
+}
+li { display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+img {
+  padding-left:170px;
+}
+h3 {
+  font-family: 'Anton', sans-serif;
+  font-size: 65px;
+margin-top: -5px
+}
+p {
+  margin-top: -10px;
+}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>News by Charlie Politics</title>
+  <link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
+  	<link href="politics.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Big+Shoulders+Text&display=swap" rel="stylesheet">
+</head>
+<body>
+  <h1>News by Charlie</h1>
+  <h2>Politics</h2>
+  <h3>
+    Who is currently leading in the democratic polls?
+  </h3>
+    <p>
+    <<img height="40%" width="40%" src="polls.png"> </img>
+    </p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+  Augue neque gravida in fermentum et sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. </p>
+  <h4> 	<a href="file:///Users/charlottemanley/Desktop/Web%20Fundamentals/article.html">Click Here to Read More!</a>
+  <h5> What is Trump up to right now? </h5>
+  <p>
+    <<img height="30%" width="30%" src="https://d3i6fh83elv35t.cloudfront.net/static/2019/10/2019-10-07T202445Z_858734107_RC17F540F180_RTRMADP_3_USA-TRADE-JAPAN-1024x698.jpg"> </img>
+    </h4>
+    </p>
+    <p>
+      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+    Augue neque gravida in fermentum et sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. </p>
+    <h4> 	<a href="file:///Uses/charlottemanley/Desktop/Web%20Fundamentals/article.html">Click Here to Read More!</a>
+</body>
+</html>
+h1 {
+  font-family: 'Anton', sans-serif;
+
+}
+h2{
+  font-family: 'Anton', sans-serif;
+margin-top: -12px;
+}
+h3 {
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 50px;
+  margin-top: -15px;
+}
+h4 {
+  margin-top: -9px;
+}
+
+h5 {
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 50px;
+  margin-bottom: -9px;
+}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Politics</title>
+  <link href="article.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Big+Shoulders+Text&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <h1>News by Charlie</h1>
+  <h2>Politics</h2>
+  <h3>
+    Who is currently leading in the democratic polls?
+  </h3>
+  <p>
+    Keep track to see how your favorite candidate is doing
+    </p>
+
+  <p>
+  <<img height="40%" width="40%" src="polls.png"> </img>
+  </p>
+  <h5> Written by John Doe </h5>
+  <p>
+    October 12, 2019
+    </p>
+  <h4>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+  Augue neque gravida in fermentum et sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. Molestie nunc non blandit massa enim nec dui nunc. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nibh venenatis cras sed felis eget velit aliquet sagittis. Et ultrices neque ornare aenean euismod elementum nisi quis. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Gravida in fermentum et sollicitudin ac orci.
+Augue neque gravida in fermentum et sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Condimentum vitae sapien pellentesque habitant morbi tristique. Bibendum arcu vitae elementum curabitur vitae nunc sed. Dolor purus non enim praesent elementum facilisis leo vel. In eu mi bibendum neque egestas congue quisque. Sit amet massa vitae tortor. </h4>
+
+
+  </body>
+  </html>
+h1 {
+  font-family: 'Anton', sans-serif;
+
+}
+h2{
+  font-family: 'Anton', sans-serif;
+margin-top: -12px;
+}
+h3 {
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 50px;
+  margin-top: -15px;
+}
+
+p {
+  font-size: 20px;
+}
